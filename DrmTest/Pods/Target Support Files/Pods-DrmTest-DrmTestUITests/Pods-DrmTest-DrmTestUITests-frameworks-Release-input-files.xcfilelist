@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-DrmTest-DrmTestUITests/Pods-DrmTest-DrmTestUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/GCDWebServer/GCDWebServer.framework

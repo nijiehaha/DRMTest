@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B5B2AFA3-0D6F-4C63-856B-0D60407BFD48"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2F0886A-793F-4A68-914B-AE9AA8769AD6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrmTest/VTSimplePlayer.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "-observeValueForKeyPath:ofObject:change:context:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "4C9F9F71-E0E7-4DB1-8AD2-A3FE408E6D8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "D8F1068F-F8A9-4FB6-9665-6FB5544214BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23CDC592-BB3F-45F5-BF1F-C1E477CD8431"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrmTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "281"
+            endingLineNumber = "281"
+            landmarkName = "resourceLoader(_:shouldWaitForLoadingOfRequestedResource:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23CDC592-BB3F-45F5-BF1F-C1E477CD8431 - 1c5fbef43dae0a81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrmTest.M3u8ResourceLoader.resourceLoader(_: __C.AVAssetResourceLoader, shouldWaitForLoadingOfRequestedResource: __C.AVAssetResourceLoadingRequest) -&gt; Swift.Bool"
+                  moduleName = "DrmTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luxiaofei/Desktop/DrmTest/DrmTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "281"
+                  endingLineNumber = "281"
+                  offsetFromSymbolStart = "1396">
+               </Location>
+               <Location
+                  uuid = "23CDC592-BB3F-45F5-BF1F-C1E477CD8431 - bb2238db008bf27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in DrmTest.M3u8ResourceLoader.resourceLoader(_: __C.AVAssetResourceLoader, shouldWaitForLoadingOfRequestedResource: __C.AVAssetResourceLoadingRequest) -&gt; Swift.Bool"
+                  moduleName = "DrmTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luxiaofei/Desktop/DrmTest/DrmTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC01178D-926A-49AB-8177-94BBAC908FEE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DrmTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "373"
+            endingLineNumber = "373"
+            landmarkName = "resourceLoader(_:shouldWaitForLoadingOfRequestedResource:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC01178D-926A-49AB-8177-94BBAC908FEE - 1c5fbef43dae7e5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DrmTest.M3u8ResourceLoader.resourceLoader(_: __C.AVAssetResourceLoader, shouldWaitForLoadingOfRequestedResource: __C.AVAssetResourceLoadingRequest) -&gt; Swift.Bool"
+                  moduleName = "DrmTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luxiaofei/Desktop/DrmTest/DrmTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "373"
+                  endingLineNumber = "373"
+                  offsetFromSymbolStart = "2832">
+               </Location>
+               <Location
+                  uuid = "AC01178D-926A-49AB-8177-94BBAC908FEE - 345a4ba5ee879f03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in DrmTest.M3u8ResourceLoader.resourceLoader(_: __C.AVAssetResourceLoader, shouldWaitForLoadingOfRequestedResource: __C.AVAssetResourceLoadingRequest) -&gt; Swift.Bool"
+                  moduleName = "DrmTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luxiaofei/Desktop/DrmTest/DrmTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "378"
+                  endingLineNumber = "378"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
