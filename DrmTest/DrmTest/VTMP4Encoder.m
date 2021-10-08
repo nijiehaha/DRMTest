@@ -1,10 +1,3 @@
-//
-//  VTMP4Encoder.m
-//  AFNetworking
-//
-//  Created by Vincent on 2019/1/1.
-//
-
 #import "VTMP4Encoder.h"
 #import <AVFoundation/AVFoundation.h>
 
